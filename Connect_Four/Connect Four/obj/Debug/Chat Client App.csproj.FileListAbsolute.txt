@@ -1,0 +1,20 @@
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\bin\Debug\Chat Client App.exe.config
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\bin\Debug\Chat Client App.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\bin\Debug\Chat Client App.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csprojResolveAssemblyReference.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat_Client_App.Form1.resources
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat_Client_App.Properties.Resources.resources
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csproj.GenerateResource.Cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csproj.CoreCompileInputs.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat Client App.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Chat V1\Chat Client App\Chat Client App\obj\Debug\Chat Client App.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\bin\Debug\Chat Client App.exe.config
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\bin\Debug\Chat Client App.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\bin\Debug\Chat Client App.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csprojResolveAssemblyReference.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat_Client_App.Properties.Resources.resources
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csproj.GenerateResource.Cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat Client App.csproj.CoreCompileInputs.cache
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat Client App.exe
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat Client App.pdb
+G:\USW\CS0S360 Software Development Fundamentals\Assignment\Assignment 2 Connect 4\Connect_4_V8 Chat Client\Chat Client App\Chat Client App\obj\Debug\Chat_Client_App.Connect_Four.resources
