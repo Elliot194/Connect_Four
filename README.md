@@ -3,7 +3,7 @@ Connect Four in C#
 
 Details
 -------
-This is from a uni assignment I did in 2018 Connect Four in C#
+This is from a uni assignment 2018 Connect Four in C#
 
 Optional rule to Connect Four in a cube
 
